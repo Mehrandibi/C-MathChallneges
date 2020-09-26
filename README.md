@@ -7,8 +7,12 @@ The reference of these challneges are:
 The The Modern C++ Challenge: Become an Expert Programmer by Solving Real-world Problems 
 Book by Marius Bancila (Originally published: May 23, 2018).
 
-Ch03: 
+Ch01: Sum of naturals divisible by 3 and 5.
+Ch02: Greatest common divisor.
+Ch03: Least common multiple.
 Ch04: Largest prime number less than a given number x
-
-
+Ch05: Sexy prime numbers.
+Ch06: Abundant numbers.
+Ch07: Amicable numbers.
+Ch08:Armstrong numbers.
 Ch09: All prime factors of a given number.
